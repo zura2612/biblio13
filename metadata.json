@@ -1,0 +1,5 @@
+{
+  "name": "aistudio - Gestion de Bibliothèque",
+  "description": "Pour gérer vos livres, vos abonnés et vos emprunts en temps réel.",
+  "requestFramePermissions": []
+}
